@@ -91,7 +91,7 @@ rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch18041911510673882058.
 rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch20011717250645892912.rsc/89820_Uni.sdp
 #EXTINF:-1 tvg-name="新泰乡村" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/新泰乡村.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch20070915444258780250.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",新泰乡村
 rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch20070915444258780250.rsc/90389_Uni.sdp
-#EXTINF:-1 tvg-name="泰山电视频道" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/泰山电视频道.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch24020819351237316095.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",泰山电视频道
+#EXTINF:-1 tvg-name="泰山电视频道" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/泰山电视频道.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch24020819351237316095.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",泰山电视频道
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch24020819351237316095.rsc/99977_Uni.sdp
 #EXTINF:-1 tvg-name="北京卫视4K超高清" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/北京卫视4K.png" catchup="default" catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch25032514071097767315.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",北京卫视4K超高清
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch25032514071097767315.rsc/102825_Uni.sdp
