@@ -59,7 +59,7 @@ rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch21062215414116185265.
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch21062215415309865050.rsc/91606_Uni.sdp
 #EXTINF:-1 tvg-id="2" tvg-name="山东卫视" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/山东卫视.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15050916441119736372.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东卫视
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15050916441119736372.rsc/70010_Uni.sdp
-#EXTINF:-1 tvg-id="20" tvg-name="山东齐鲁" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/山东齐鲁.png" catchup="default" catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch10120117223157422538.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东齐鲁
+#EXTINF:-1 tvg-id="20" tvg-name="山东齐鲁" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/山东齐鲁.png" catchup="default" catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch10120117223157422538.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东齐鲁
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch10120117223157422538.rsc/70061_Uni.sdp
 #EXTINF:-1 tvg-id="21" tvg-name="山东文旅" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/山东文旅.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch10120117133527564831.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东文旅
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch10120117133527564831.rsc/70048_Uni.sdp
