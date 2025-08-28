@@ -99,10 +99,14 @@ rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch25032514071097767315.
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch25061910020901468282.rsc/103007_Uni.sdp
 #EXTINF:-1 tvg-name="广东卫视4K" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/广东卫视4K.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch25062414535257116401.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 广东卫视4K
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch25062414535257116401.rsc/103043_Uni.sdp
-#EXTINF:-1 tvg-name="北京纪实科教" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/北京纪实科教.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch24020510150834566089.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 北京纪实科教
-rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch24020510150834566089.rsc/99953_Uni.sdp
+#EXTINF:-1 tvg-name="爱上4K测试体验" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/爱上4K测试体验.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch16062014270602375204.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 爱上4K测试体验
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch16062014270602375204.rsc/70019_Uni.sdp
 #EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/北京卫视.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch12051116365437815794.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 北京卫视
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch12051116365437815794.rsc/69968_Uni.sdp
+#EXTINF:-1 tvg-name="卡酷少儿" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/卡酷少儿.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120118400576795406.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 卡酷少儿
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120118400576795406.rsc/69993_Uni.sdp
+#EXTINF:-1 tvg-name="北京纪实科教" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/北京纪实科教.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch24020510150834566089.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 北京纪实科教
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch24020510150834566089.rsc/99953_Uni.sdp
 #EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/湖南卫视.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch12051116352384581471.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 湖南卫视
 rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch12051116352384581471.rsc/70069_Uni.sdp
 #EXTINF:-1 tvg-name="金鹰纪实" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/金鹰纪实.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15050917541337365144.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 金鹰纪实
@@ -153,8 +157,6 @@ rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch10120118293449046768.
 rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch10120116181598810422.rsc/70001_Uni.sdp
 #EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/四川卫视.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch11122400393964414144.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 四川卫视
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch11122400393964414144.rsc/69962_Uni.sdp
-#EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/山西卫视.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120118303484157828.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山西卫视
-rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120118303484157828.rsc/70039_Uni.sdp
 #EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/江西卫视.png" catchup="default" catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch10120118345500084693.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 江西卫视
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch10120118345500084693.rsc/69999_Uni.sdp
 #EXTINF:-1 tvg-name="广西卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/广西卫视.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch10120114524702485505.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 广西卫视
@@ -163,12 +165,6 @@ rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch10120114524702485505.
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch10120116035123677506.rsc/69989_Uni.sdp
 #EXTINF:-1 tvg-name="云南卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/云南卫视.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch10120116144658191615.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 云南卫视
 rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch10120116144658191615.rsc/69926_Uni.sdp
-#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/陕西卫视.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120118332130518297.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 陕西卫视
-rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120118332130518297.rsc/70017_Uni.sdp
-#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/内蒙古卫视.png" catchup="default" catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch10120118290217488762.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 内蒙古卫视
-rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch10120118290217488762.rsc/70041_Uni.sdp
-#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/宁夏卫视.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch10120118321878054010.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 宁夏卫视
-rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch10120118321878054010.rsc/69948_Uni.sdp
 #EXTINF:-1 tvg-name="新疆卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/新疆卫视.png" catchup="default" catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch10120118204473437661.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 新疆卫视
 rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch10120118204473437661.rsc/69942_Uni.sdp
 #EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/甘肃卫视.png" catchup="default" catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch21092610332476918454.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 甘肃卫视
@@ -177,18 +173,26 @@ rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch21092610332476918454.
 rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch10120118273518671654.rsc/69945_Uni.sdp
 #EXTINF:-1 tvg-name="西藏卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/西藏卫视.png" catchup="default" catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch10120116213780720306.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 西藏卫视
 rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch10120116213780720306.rsc/69953_Uni.sdp
+#EXTINF:-1 tvg-name="兵团卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/兵团卫视.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch10120116250568011708.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 兵团卫视
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch10120116250568011708.rsc/69935_Uni.sdp
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/宁夏卫视.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch25072809435815201156.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 宁夏卫视
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch25072809435815201156.rsc/103092_Uni.sdp
+#EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/山西卫视.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120118303484157828.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山西卫视
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120118303484157828.rsc/70039_Uni.sdp
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/陕西卫视.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120118332130518297.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 陕西卫视
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120118332130518297.rsc/70017_Uni.sdp
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/内蒙古卫视.png" catchup="default" catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch10120118290217488762.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 内蒙古卫视
+rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch10120118290217488762.rsc/70041_Uni.sdp
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/宁夏卫视.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch10120118321878054010.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 宁夏卫视
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch10120118321878054010.rsc/69948_Uni.sdp
 #EXTINF:-1 tvg-name="生态环境" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/生态环境.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch24111213061931833007.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 生态环境
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch24111213061931833007.rsc/101604_Uni.sdp
-#EXTINF:-1 tvg-name="卡酷少儿" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/卡酷少儿.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120118400576795406.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 卡酷少儿
-rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120118400576795406.rsc/69993_Uni.sdp
 #EXTINF:-1 tvg-name="优漫卡通" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/优漫卡通.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch11042914374730524823.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 优漫卡通
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch11042914374730524823.rsc/69927_Uni.sdp
 #EXTINF:-1 tvg-name="哈哈炫动" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/哈哈炫动.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch11122400404197907033.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 哈哈炫动
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch11122400404197907033.rsc/69973_Uni.sdp
 #EXTINF:-1 tvg-name="嘉佳卡通" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/嘉佳卡通.png" catchup="default" catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch15050917541249689380.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 嘉佳卡通
 rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch15050917541249689380.rsc/69983_Uni.sdp
-#EXTINF:-1 tvg-name="兵团卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/兵团卫视.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch10120116250568011708.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 兵团卫视
-rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch10120116250568011708.rsc/69935_Uni.sdp
 #EXTINF:-1 tvg-name="农林卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/农林卫视.png" catchup="default" catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch10120118335748437793.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 农林卫视
 rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch10120118335748437793.rsc/69961_Uni.sdp
 #EXTINF:-1 tvg-name="厦门卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/厦门卫视.png" catchup="default" catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch17120418140581348001.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 厦门卫视
@@ -203,12 +207,8 @@ rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch17120418055568047747.
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch23072116063432685915.rsc/98595_Uni.sdp
 #EXTINF:-1 tvg-name="爱体育" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/爱体育.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch17120418224162657206.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 爱体育
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch17120418224162657206.rsc/74292_Uni.sdp
-#EXTINF:-1 tvg-name="爱上4K测试体验" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/爱上4K测试体验.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch16062014270602375204.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 爱上4K测试体验
-rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch16062014270602375204.rsc/70019_Uni.sdp
 #EXTINF:-1 tvg-name="谍战剧场" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/谍战剧场.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch13031310523562855603.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 谍战剧场
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch13031310523562855603.rsc/69987_Uni.sdp
-#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/宁夏卫视.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch25072809435815201156.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 宁夏卫视
-rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch25072809435815201156.rsc/103092_Uni.sdp
 #EXTINF:-1 tvg-name="三沙卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/三沙卫视.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch19120615372589393337.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 三沙卫视
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch19120615372589393337.rsc/89705_Uni.sdp
 #EXTINF:-1 tvg-name="中华特产" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/中华特产.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch22122209144768479365.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 中华特产
