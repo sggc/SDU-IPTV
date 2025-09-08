@@ -135,6 +135,8 @@ http://192.168.0.1:4022/rtp/239.253.240.86:8000
 http://192.168.0.1:4022/rtp/239.253.240.83:8000
 #EXTINF:-1 tvg-name="安徽卫视高清" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/安徽卫视.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15050917541532308683.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 安徽卫视
 http://192.168.0.1:4022/rtp/239.253.240.87:8000
+#EXTINF:-1 tvg-name="天津卫视高清" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/天津卫视.png" catchup="default" catchup-source="rtsp://112.245.125.70:1554/iptv/Tvod/iptv/001/001/ch15050917541659846769.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 天津卫视
+http://192.168.0.1:4022/rtp/239.253.240.89:8000
 #EXTINF:-1 tvg-name="辽宁卫视高清" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/辽宁卫视.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch15050917541756096231.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 辽宁卫视
 http://192.168.0.1:4022/rtp/239.253.240.92:8000
 #EXTINF:-1 tvg-name="深圳卫视高清" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/深圳卫视.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch12051116392957055081.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 深圳卫视

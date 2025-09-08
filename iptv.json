@@ -324,6 +324,15 @@
     "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15050917541532308683.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
+    "tvg_id": "37",
+    "tvg_name": "天津卫视高清",
+    "group_title": "卫视频道",
+    "channel_name": "天津卫视",
+    "udpxy_url": "rtp://239.253.240.89:8000",
+    "uni_live": "rtsp://112.245.125.70:1554/iptv/import/Tvod/iptv/001/001/ch15050917541659846769.rsc/77632_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.70:1554/iptv/Tvod/iptv/001/001/ch15050917541659846769.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+  },
+  {
     "tvg_id": "38",
     "tvg_name": "辽宁卫视高清",
     "group_title": "卫视频道",
