@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/plsy1/epg/raw/refs/heads/main/e/seven-days.gz,https://e.erw.cc/all.xml.gz" 
+#EXTM3U url-tvg="https://github.com/plsy1/epg/raw/refs/heads/main/e/seven-days.xml.gz,https://e.erw.cc/all.xml.gz" 
 #EXTINF:-1 tvg-name="CCTV1高清" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/CCTV1.png" catchup="default" catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch12122514263996485740.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV1
 http://192.168.0.1:4022/rtp/239.253.240.77:8000
 #EXTINF:-1 tvg-name="CCTV2高清" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/CCTV2.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15111015505054435886.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV2
