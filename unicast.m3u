@@ -203,7 +203,7 @@ rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch17120417211408620162.
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch17120418055568047747.rsc/74289_Uni.sdp
 #EXTINF:-1 tvg-name="四海钓鱼" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/四海钓鱼.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch22121315043920146188.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 四海钓鱼
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch22121315043920146188.rsc/96497_Uni.sdp
-#EXTINF:-1 tvg-name="汽摩频道" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/汽摩频道.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch23112715323902470603.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 汽摩频道
+#EXTINF:-1 tvg-name="汽摩" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/汽摩.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch23112715323902470603.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 汽摩
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch23112715323902470603.rsc/99884_Uni.sdp
 #EXTINF:-1 tvg-name="生态环境" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/logo/生态环境.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch24111213061931833007.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 生态环境
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch24111213061931833007.rsc/101604_Uni.sdp
