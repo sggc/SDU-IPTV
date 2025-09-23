@@ -12,12 +12,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Get current time
+        id: get_time
+        run: echo "TIME_TAG=v$(date +'%Y%m%d-%H%M%S')" >> $GITHUB_ENV
+
       - name: Create Release
         uses: ncipollo/release-action@v1
         with:
-          token: ${{ secrets.PAT }}             
-          tag: "v${{ github.run_number }}"
-          name: "Release ${{ github.run_number }}"
-          body: "自动生成 release，包含 main 分支的全部内容"
+          token: ${{ secrets.PAT }}
+          tag: ${{ env.TIME_TAG }}  
+          name: "Release ${{ env.TIME_TAG }}" 
+          body: "更新后自动生成的数据，存档使用"
           draft: false
-          prerelease: false
+          prerelease: falsee
