@@ -1,4 +1,4 @@
-name: Auto Release Main
+name: 自动生成release
 
 on:
   push:
