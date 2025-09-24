@@ -1,0 +1,30 @@
+name: Auto Release Main
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4  # 更新到最新版本
+        with:
+          fetch-depth: 0  # 确保获取完整历史，便于生成release
+
+      - name: Get current time
+        id: get_time
+        run: echo "TIME_TAG=v$(date +'%Y%m%d-%H%M%S')" >> $GITHUB_ENV
+
+      - name: Create Release
+        uses: ncipollo/release-action@v1
+        with:
+          # 推荐使用GITHUB_TOKEN，无需额外创建PAT
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: ${{ env.TIME_TAG }}  
+          name: "Release ${{ env.TIME_TAG }}" 
+          body: "更新后自动生成的数据，存档使用"
+          draft: false
+          prerelease: false  # 修复了此处的拼写错误（原prerelease: falsee）
