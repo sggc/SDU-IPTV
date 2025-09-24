@@ -6,8 +6,8 @@
     "tvg_name": "CCTV1",
     "group_title": "央视频道",
     "udpxy_url": "rtp://239.253.240.77:8000",
-    "uni_live": "rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch12122514263996485740.rsc/69958_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch12122514263996485740.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch12122514263996485740.rsc/69958_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch12122514263996485740.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001170",
@@ -16,8 +16,8 @@
     "tvg_name": "山东卫视",
     "group_title": "山东频道",
     "udpxy_url": "rtp://239.253.240.78:8000",
-    "uni_live": "rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch15050916441119736372.rsc/70010_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch15050916441119736372.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch15050916441119736372.rsc/70010_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch15050916441119736372.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001219",
@@ -26,8 +26,8 @@
     "tvg_name": "CCTV2",
     "group_title": "央视频道",
     "udpxy_url": "rtp://239.253.240.232:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15111015505054435886.rsc/70018_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15111015505054435886.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15111015505054435886.rsc/70018_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15111015505054435886.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001357",
@@ -36,8 +36,8 @@
     "tvg_name": "CCTV3",
     "group_title": "央视频道",
     "udpxy_url": "rtp://239.253.240.191:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch21072816504132734115.rsc/91877_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch21072816504132734115.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch21072816504132734115.rsc/91877_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch21072816504132734115.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001261",
@@ -56,8 +56,8 @@
     "tvg_name": "CCTV5",
     "group_title": "央视频道",
     "udpxy_url": "rtp://239.253.240.192:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch21072816512692879794.rsc/91882_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch21072816512692879794.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch21072816512692879794.rsc/91882_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch21072816512692879794.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001086",
@@ -96,8 +96,8 @@
     "tvg_name": "CCTV8",
     "group_title": "央视频道",
     "udpxy_url": "rtp://239.253.240.194:8000",
-    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch21072816531463294165.rsc/91850_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch21072816531463294165.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21072816531463294165.rsc/91850_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch21072816531463294165.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001171",
@@ -106,8 +106,8 @@
     "tvg_name": "CCTV9",
     "group_title": "央视频道",
     "udpxy_url": "rtp://239.253.240.79:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15050917541424212319.rsc/70042_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15050917541424212319.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15050917541424212319.rsc/70042_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15050917541424212319.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001221",
@@ -116,8 +116,8 @@
     "tvg_name": "CCTV10",
     "group_title": "央视频道",
     "udpxy_url": "rtp://239.253.240.234:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15111015554384702984.rsc/69941_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15111015554384702984.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15111015554384702984.rsc/69941_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15111015554384702984.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001013",
@@ -126,8 +126,8 @@
     "tvg_name": "CCTV11",
     "group_title": "央视频道",
     "udpxy_url": "rtp://239.253.240.169:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch11122400354496191158.rsc/70045_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch11122400354496191158.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch11122400354496191158.rsc/70045_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch11122400354496191158.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001222",
@@ -156,8 +156,8 @@
     "tvg_name": "CCTV14",
     "group_title": "央视频道",
     "udpxy_url": "rtp://239.253.240.236:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15111016003483433803.rsc/69975_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15111016003483433803.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15111016003483433803.rsc/69975_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15111016003483433803.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001015",
@@ -166,8 +166,8 @@
     "tvg_name": "CCTV15",
     "group_title": "央视频道",
     "udpxy_url": "rtp://239.253.240.170:8000",
-    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch11122400365842237336.rsc/70037_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch11122400365842237336.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch11122400365842237336.rsc/70037_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch11122400365842237336.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001158",
@@ -176,8 +176,8 @@
     "tvg_name": "CGTN",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.189:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15050914501799552135.rsc/70003_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15050914501799552135.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15050914501799552135.rsc/70003_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15050914501799552135.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001017",
@@ -196,8 +196,8 @@
     "tvg_name": "山东文旅",
     "group_title": "山东频道",
     "udpxy_url": "rtp://239.253.240.160:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch10120117133527564831.rsc/70048_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch10120117133527564831.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch10120117133527564831.rsc/70048_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch10120117133527564831.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001019",
@@ -206,8 +206,8 @@
     "tvg_name": "山东生活",
     "group_title": "山东频道",
     "udpxy_url": "rtp://239.253.240.151:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch10120117100570561699.rsc/70011_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch10120117100570561699.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120117100570561699.rsc/70011_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120117100570561699.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001020",
@@ -216,8 +216,8 @@
     "tvg_name": "山东综艺",
     "group_title": "山东频道",
     "udpxy_url": "rtp://239.253.240.159:8000",
-    "uni_live": "rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch11012815051671532768.rsc/69938_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch11012815051671532768.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch11012815051671532768.rsc/69938_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch11012815051671532768.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001021",
@@ -226,8 +226,8 @@
     "tvg_name": "山东体育",
     "group_title": "山东频道",
     "udpxy_url": "rtp://239.253.240.22:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch10111720502861127519.rsc/70066_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch10111720502861127519.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch10111720502861127519.rsc/70066_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch10111720502861127519.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001022",
@@ -256,8 +256,8 @@
     "tvg_name": "山东少儿",
     "group_title": "山东频道",
     "udpxy_url": "rtp://239.253.240.25:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch11012815083626567264.rsc/69988_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch11012815083626567264.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch11012815083626567264.rsc/69988_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch11012815083626567264.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001251",
@@ -276,8 +276,8 @@
     "tvg_name": "山东教育",
     "group_title": "山东频道",
     "udpxy_url": "rtp://239.253.240.59:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch10120118342495301658.rsc/69990_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch10120118342495301658.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch10120118342495301658.rsc/69990_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch10120118342495301658.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001087",
@@ -286,8 +286,8 @@
     "tvg_name": "湖南卫视",
     "group_title": "卫视频道",
     "udpxy_url": "rtp://239.253.240.82:8000",
-    "uni_live": "rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch12051116352384581471.rsc/70069_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch12051116352384581471.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch12051116352384581471.rsc/70069_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch12051116352384581471.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001173",
@@ -326,8 +326,8 @@
     "tvg_name": "北京卫视",
     "group_title": "卫视频道",
     "udpxy_url": "rtp://239.253.240.85:8000",
-    "uni_live": "rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch12051116365437815794.rsc/69968_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch12051116365437815794.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch12051116365437815794.rsc/69968_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch12051116365437815794.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001175",
@@ -376,8 +376,8 @@
     "tvg_name": "东南卫视",
     "group_title": "卫视频道",
     "udpxy_url": "rtp://239.253.240.105:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch17082318094203998689.rsc/71682_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch17082318094203998689.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch17082318094203998689.rsc/71682_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch17082318094203998689.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001176",
@@ -476,8 +476,8 @@
     "tvg_name": "河南卫视",
     "group_title": "卫视频道",
     "udpxy_url": "rtp://239.253.240.190:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch10120118312827983078.rsc/69930_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch10120118312827983078.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120118312827983078.rsc/69930_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120118312827983078.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001046",
@@ -486,8 +486,8 @@
     "tvg_name": "江西卫视",
     "group_title": "卫视频道",
     "udpxy_url": "rtp://239.253.240.47:8000",
-    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch10120118345500084693.rsc/69999_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch10120118345500084693.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch10120118345500084693.rsc/69999_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch10120118345500084693.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001039",
@@ -506,8 +506,8 @@
     "tvg_name": "吉林卫视",
     "group_title": "卫视频道",
     "udpxy_url": "rtp://239.253.240.173:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch10120116035123677506.rsc/69989_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch10120116035123677506.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120116035123677506.rsc/69989_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120116035123677506.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001041",
@@ -516,8 +516,8 @@
     "tvg_name": "云南卫视",
     "group_title": "卫视频道",
     "udpxy_url": "rtp://239.253.240.196:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch10120116144658191615.rsc/69926_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch10120116144658191615.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch10120116144658191615.rsc/69926_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch10120116144658191615.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001048",
@@ -526,8 +526,8 @@
     "tvg_name": "陕西卫视",
     "group_title": "卫视频道",
     "udpxy_url": "rtp://239.253.240.49:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch10120118332130518297.rsc/70017_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch10120118332130518297.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120118332130518297.rsc/70017_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120118332130518297.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001072",
@@ -536,8 +536,8 @@
     "tvg_name": "内蒙古卫视",
     "group_title": "卫视频道",
     "udpxy_url": "rtp://239.253.240.58:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch10120118290217488762.rsc/70041_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch10120118290217488762.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120118290217488762.rsc/70041_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120118290217488762.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001067",
@@ -546,8 +546,8 @@
     "tvg_name": "宁夏卫视",
     "group_title": "卫视频道",
     "udpxy_url": "rtp://239.253.240.53:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch10120118321878054010.rsc/69948_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch10120118321878054010.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch10120118321878054010.rsc/69948_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch10120118321878054010.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001074",
@@ -556,8 +556,8 @@
     "tvg_name": "新疆卫视",
     "group_title": "卫视频道",
     "udpxy_url": "rtp://239.253.240.60:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch10120118204473437661.rsc/69942_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch10120118204473437661.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120118204473437661.rsc/69942_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120118204473437661.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001374",
@@ -566,8 +566,8 @@
     "tvg_name": "甘肃卫视",
     "group_title": "卫视频道",
     "udpxy_url": "rtp://239.253.240.74:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch21092610332476918454.rsc/92476_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch21092610332476918454.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch21092610332476918454.rsc/92476_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch21092610332476918454.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001068",
@@ -586,8 +586,8 @@
     "tvg_name": "西藏卫视",
     "group_title": "卫视频道",
     "udpxy_url": "rtp://239.253.240.56:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch10120116213780720306.rsc/69953_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch10120116213780720306.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120116213780720306.rsc/69953_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120116213780720306.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001839",
@@ -626,8 +626,8 @@
     "tvg_name": "嘉佳卡通",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.65:8000",
-    "uni_live": "rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch15050917541249689380.rsc/69983_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch15050917541249689380.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch15050917541249689380.rsc/69983_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch15050917541249689380.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001071",
@@ -636,8 +636,8 @@
     "tvg_name": "兵团卫视",
     "group_title": "卫视频道",
     "udpxy_url": "rtp://239.253.240.57:8000",
-    "uni_live": "rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch10120116250568011708.rsc/69935_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch10120116250568011708.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch10120116250568011708.rsc/69935_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch10120116250568011708.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001079",
@@ -646,8 +646,8 @@
     "tvg_name": "农林卫视",
     "group_title": "卫视频道",
     "udpxy_url": "rtp://239.253.240.70:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch10120118335748437793.rsc/69961_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch10120118335748437793.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch10120118335748437793.rsc/69961_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch10120118335748437793.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001258",
@@ -656,8 +656,8 @@
     "tvg_name": "厦门卫视",
     "group_title": "卫视频道",
     "udpxy_url": "rtp://239.253.240.106:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch17120418140581348001.rsc/74165_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch17120418140581348001.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch17120418140581348001.rsc/74165_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch17120418140581348001.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001260",
@@ -666,8 +666,8 @@
     "tvg_name": "中国教育1",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.110:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch17120418204481298161.rsc/74278_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch17120418204481298161.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch17120418204481298161.rsc/74278_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch17120418204481298161.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001256",
@@ -706,8 +706,8 @@
     "tvg_name": "延边卫视",
     "group_title": "卫视频道",
     "udpxy_url": "rtp://239.253.240.121:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch23072116063432685915.rsc/98595_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch23072116063432685915.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch23072116063432685915.rsc/98595_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch23072116063432685915.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001259",
@@ -716,8 +716,8 @@
     "tvg_name": "爱体育",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.109:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch17120418224162657206.rsc/74292_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch17120418224162657206.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch17120418224162657206.rsc/74292_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch17120418224162657206.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001240",
@@ -776,8 +776,8 @@
     "tvg_name": "中华特产",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.76:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch22122209144768479365.rsc/98231_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch22122209144768479365.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch22122209144768479365.rsc/98231_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch22122209144768479365.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001334",
@@ -796,8 +796,8 @@
     "tvg_name": "发现之旅",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.162:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch24012314294218176484.rsc/100102_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch24012314294218176484.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch24012314294218176484.rsc/100102_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch24012314294218176484.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001999",
@@ -806,8 +806,8 @@
     "tvg_name": "中学生",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.163:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch24012314300175015886.rsc/100054_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch24012314300175015886.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch24012314300175015886.rsc/100054_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch24012314300175015886.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001989",
@@ -816,8 +816,8 @@
     "tvg_name": "老故事",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.164:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch24012314302384136112.rsc/100078_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch24012314302384136112.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch24012314302384136112.rsc/100078_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch24012314302384136112.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001347",
@@ -846,8 +846,8 @@
     "tvg_name": "CGTN纪录",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.188:8000",
-    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch21062215405197977873.rsc/91702_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch21062215405197977873.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch21062215405197977873.rsc/91702_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch21062215405197977873.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001351",
@@ -876,8 +876,8 @@
     "tvg_name": "CGTN阿语",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.184:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch21062215414116185265.rsc/91594_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch21062215414116185265.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch21062215414116185265.rsc/91594_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch21062215414116185265.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001354",
@@ -886,8 +886,8 @@
     "tvg_name": "CGTN俄语",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.185:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch21062215415309865050.rsc/91606_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch21062215415309865050.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch21062215415309865050.rsc/91606_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch21062215415309865050.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001969",
@@ -896,8 +896,8 @@
     "tvg_name": "CCTV4K",
     "group_title": "央视频道",
     "udpxy_url": "rtp://239.253.240.122:8000",
-    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch23122814382128126762.rsc/99912_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch23122814382128126762.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch23122814382128126762.rsc/99912_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch23122814382128126762.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001286",
@@ -906,8 +906,8 @@
     "tvg_name": "CHC家庭影院",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.152:8000",
-    "uni_live": "rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch18120514091718394256.rsc/81481_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch18120514091718394256.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch18120514091718394256.rsc/81481_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch18120514091718394256.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001287",
@@ -916,8 +916,8 @@
     "tvg_name": "CHC动作电影",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.153:8000",
-    "uni_live": "rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch18120514100139517699.rsc/81477_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch18120514100139517699.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch18120514100139517699.rsc/81477_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch18120514100139517699.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001288",
@@ -966,8 +966,8 @@
     "tvg_name": "CCTV5",
     "group_title": "央视频道",
     "udpxy_url": "rtp://239.253.240.6:8000",
-    "uni_live": "rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch12101814173650174727.rsc/69979_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12101814173650174727.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch12101814173650174727.rsc/69979_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch12101814173650174727.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001098",
@@ -1006,8 +1006,8 @@
     "tvg_name": "金色学堂",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.101:8000",
-    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch16051316370413715540.rsc/70002_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch16051316370413715540.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch16051316370413715540.rsc/70002_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch16051316370413715540.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001549",
@@ -1016,8 +1016,8 @@
     "tvg_name": "生活时尚",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.99:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch16051316300118213959.rsc/69982_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch16051316300118213959.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch16051316300118213959.rsc/69982_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch16051316300118213959.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001589",
@@ -1026,8 +1026,8 @@
     "tvg_name": "都市剧场",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.98:8000",
-    "uni_live": "rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch16051316281593708406.rsc/69947_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch16051316281593708406.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch16051316281593708406.rsc/69947_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch16051316281593708406.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001599",
@@ -1036,8 +1036,8 @@
     "tvg_name": "乐游",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.97:8000",
-    "uni_live": "rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch16051316264757381898.rsc/69991_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch16051316264757381898.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch16051316264757381898.rsc/69991_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch16051316264757381898.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001609",
@@ -1056,8 +1056,8 @@
     "tvg_name": "游戏风云",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.95:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch16051316213602697345.rsc/70026_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch16051316213602697345.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch16051316213602697345.rsc/70026_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch16051316213602697345.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001639",
@@ -1066,8 +1066,8 @@
     "tvg_name": "东方财经",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.94:8000",
-    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch16051316174673479081.rsc/96398_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch16051316174673479081.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch16051316174673479081.rsc/96398_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch16051316174673479081.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001371",
@@ -1076,8 +1076,8 @@
     "tvg_name": "梨园",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.139:8000",
-    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch21092610314667739520.rsc/92523_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch21092610314667739520.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21092610314667739520.rsc/92523_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch21092610314667739520.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001372",
@@ -1106,8 +1106,8 @@
     "tvg_name": "精彩影视",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.142:8000",
-    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch21092610322847858391.rsc/92512_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch21092610322847858391.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21092610322847858391.rsc/92512_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch21092610322847858391.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001365",
@@ -1136,8 +1136,8 @@
     "tvg_name": "求索纪录",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.231:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch25041514142600797103.rsc/102871_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch25041514142600797103.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch25041514142600797103.rsc/102871_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch25041514142600797103.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001363",
@@ -1176,8 +1176,8 @@
     "tvg_name": "音乐现场",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.202:8000",
-    "uni_live": "rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch15090914592145596821.rsc/70070_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch15090914592145596821.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch15090914592145596821.rsc/70070_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch15090914592145596821.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001187",
@@ -1186,8 +1186,8 @@
     "tvg_name": "军旅剧场",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.203:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15090915023023311866.rsc/69969_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15090915023023311866.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15090915023023311866.rsc/69969_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15090915023023311866.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001188",
@@ -1196,8 +1196,8 @@
     "tvg_name": "足球",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.204:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15090915041757410943.rsc/69998_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15090915041757410943.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15090915041757410943.rsc/69998_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15090915041757410943.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001189",
@@ -1216,8 +1216,8 @@
     "tvg_name": "军事",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.207:8000",
-    "uni_live": "rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch15090915223200641077.rsc/70054_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch15090915223200641077.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch15090915223200641077.rsc/70054_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch15090915223200641077.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001192",
@@ -1236,8 +1236,8 @@
     "tvg_name": "红色影院",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.209:8000",
-    "uni_live": "rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch15090915431474482038.rsc/70060_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch15090915431474482038.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch15090915431474482038.rsc/70060_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch15090915431474482038.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001194",
@@ -1246,8 +1246,8 @@
     "tvg_name": "精选",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.210:8000",
-    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15090915484219614929.rsc/69955_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15090915484219614929.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15090915484219614929.rsc/69955_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15090915484219614929.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001195",
@@ -1256,8 +1256,8 @@
     "tvg_name": "经典剧场",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.211:8000",
-    "uni_live": "rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch15090915512437000823.rsc/70022_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch15090915512437000823.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch15090915512437000823.rsc/70022_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch15090915512437000823.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001196",
@@ -1276,8 +1276,8 @@
     "tvg_name": "美人",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.213:8000",
-    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15090916040665863835.rsc/69934_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15090916040665863835.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15090916040665863835.rsc/69934_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15090916040665863835.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001198",
@@ -1286,8 +1286,8 @@
     "tvg_name": "鉴赏",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.214:8000",
-    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15090916075722072184.rsc/69924_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15090916075722072184.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15090916075722072184.rsc/69924_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15090916075722072184.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001199",
@@ -1296,8 +1296,8 @@
     "tvg_name": "国学",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.215:8000",
-    "uni_live": "rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch15090916181970967371.rsc/69985_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch15090916181970967371.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch15090916181970967371.rsc/69985_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch15090916181970967371.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001200",
@@ -1326,8 +1326,8 @@
     "tvg_name": "家庭影院",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.218:8000",
-    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15090916215642164569.rsc/70055_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15090916215642164569.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15090916215642164569.rsc/70055_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15090916215642164569.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001203",
@@ -1376,8 +1376,8 @@
     "tvg_name": "光影",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.223:8000",
-    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15090916254772284807.rsc/69940_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15090916254772284807.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15090916254772284807.rsc/69940_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15090916254772284807.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001208",
@@ -1626,8 +1626,8 @@
     "tvg_name": "北京纪实科教",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.165:8000",
-    "uni_live": "rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch24020510150834566089.rsc/99953_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch24020510150834566089.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch24020510150834566089.rsc/99953_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch24020510150834566089.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000002159",
@@ -1656,8 +1656,8 @@
     "tvg_name": "广东卫视4K",
     "group_title": "卫视频道",
     "udpxy_url": "rtp://239.253.240.108:8000",
-    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch25062414535257116401.rsc/103043_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch25062414535257116401.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch25062414535257116401.rsc/103043_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch25062414535257116401.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000002119",
@@ -1668,56 +1668,6 @@
     "udpxy_url": "rtp://239.253.240.134:8000",
     "uni_live": "rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch24111213065813502431.rsc/101580_Uni.sdp",
     "uni_playback": "rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch24111213065813502431.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
-  },
-  {
-    "ChannelID": "ch00000000000000001280",
-    "ChannelName": "泰安经济生活",
-    "tvg_id": "282",
-    "tvg_name": "泰安经济生活",
-    "group_title": "山东频道",
-    "udpxy_url": "rtp://239.253.240.253:8000",
-    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch18041911510673882058.rsc/79888_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch18041911510673882058.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
-  },
-  {
-    "ChannelID": "ch00000000000000001309",
-    "ChannelName": "新泰综合",
-    "tvg_id": "483",
-    "tvg_name": "新泰综合",
-    "group_title": "山东频道",
-    "udpxy_url": "rtp://239.253.240.250:8000",
-    "uni_live": "rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch20011717250645892912.rsc/89820_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch20011717250645892912.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
-  },
-  {
-    "ChannelID": "ch00000000000000001329",
-    "ChannelName": "新泰乡村",
-    "tvg_id": "484",
-    "tvg_name": "新泰乡村",
-    "group_title": "山东频道",
-    "udpxy_url": "rtp://239.253.240.246:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch20070915444258780250.rsc/90389_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch20070915444258780250.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
-  },
-  {
-    "ChannelID": "ch00000000000000002039",
-    "ChannelName": "泰山电视频道",
-    "tvg_id": "489",
-    "tvg_name": "泰山电视频道",
-    "group_title": "其他频道",
-    "udpxy_url": "rtp://239.253.240.244:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch24020819351237316095.rsc/99977_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch24020819351237316095.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
-  },
-  {
-    "ChannelID": "ch00000000000000001279",
-    "ChannelName": "泰安综合",
-    "tvg_id": "709",
-    "tvg_name": "泰安综合",
-    "group_title": "山东频道",
-    "udpxy_url": "rtp://239.253.240.252:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch18041911493947244872.rsc/79887_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch18041911493947244872.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000002129",
@@ -1736,8 +1686,8 @@
     "tvg_name": "优购物",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.174:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch24111213073337804127.rsc/101532_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch24111213073337804127.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch24111213073337804127.rsc/101532_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch24111213073337804127.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001284",
@@ -1746,8 +1696,8 @@
     "tvg_name": "央广购物",
     "group_title": "其他频道",
     "udpxy_url": "rtp://239.253.240.199:8000",
-    "uni_live": "rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch18102919143814079235.rsc/80244_Uni.sdp",
-    "uni_playback": "rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch18102919143814079235.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
+    "uni_live": "rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch18102919143814079235.rsc/80244_Uni.sdp",
+    "uni_playback": "rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch18102919143814079235.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT"
   },
   {
     "ChannelID": "ch00000000000000001939",
