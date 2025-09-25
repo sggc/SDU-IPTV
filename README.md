@@ -36,6 +36,10 @@
 - **IPTV 鉴权模拟**  
   - 项目地址：[plsy1/shandong-unicom-iptv](https://github.com/plsy1/shandong-unicom-iptv)  
   - 提供 IPTV 机顶盒的 **登录鉴权模拟**，完成鉴权后可获取 `token`，并用其抓取节目单和播放地址。  
+- **自动化抓源工具**
+  - 项目地址：[plsy1/iptvTool](https://github.com/plsy1/iptvTool)  
+  - 一个用于抓取并处理  IPTV 原始数据、生成 M3U 播放列表的命令行工具
+  
 
 ## 🕙 频道变动
 
