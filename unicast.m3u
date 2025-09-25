@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/plsy1/epg/main/e/seven-days.xml.gz" 
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV1.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12122514263996485740.rsc?tvdr=20250920203053GMT-20250920200053GMT", CCTV1
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV1.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12122514263996485740.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV1
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch12122514263996485740.rsc/69958_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV2" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV2.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15111015505054435886.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV2
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15111015505054435886.rsc/70018_Uni.sdp
@@ -91,13 +91,13 @@ rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch21062215412921826390.
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch21062215414116185265.rsc/91594_Uni.sdp
 #EXTINF:-1 tvg-name="CGTN俄语" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CGTN俄语.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch21062215415309865050.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CGTN俄语
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch21062215415309865050.rsc/91606_Uni.sdp
-#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/北京卫视.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch12051116365437815794.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 北京卫视
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/北京卫视.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12051116365437815794.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 北京卫视
 rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch12051116365437815794.rsc/69968_Uni.sdp
 #EXTINF:-1 tvg-name="北京纪实科教" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/北京纪实科教.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch24020510150834566089.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 北京纪实科教
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch24020510150834566089.rsc/99953_Uni.sdp
 #EXTINF:-1 tvg-name="卡酷少儿" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/卡酷少儿.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch10120118400576795406.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 卡酷少儿
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch10120118400576795406.rsc/69993_Uni.sdp
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/湖南卫视.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch12051116352384581471.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 湖南卫视
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/湖南卫视.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12051116352384581471.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 湖南卫视
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch12051116352384581471.rsc/70069_Uni.sdp
 #EXTINF:-1 tvg-name="金鹰纪实" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/金鹰纪实.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15050917541337365144.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 金鹰纪实
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15050917541337365144.rsc/70053_Uni.sdp
@@ -121,7 +121,7 @@ rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch21092610321303262159.
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15050917541521964962.rsc/69949_Uni.sdp
 #EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/东方卫视.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15050917541568689826.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 东方卫视
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15050917541568689826.rsc/69963_Uni.sdp
-#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/江苏卫视.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch12051116384379542816.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 江苏卫视
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/江苏卫视.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12051116384379542816.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 江苏卫视
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch12051116384379542816.rsc/69997_Uni.sdp
 #EXTINF:-1 tvg-name="安徽卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/安徽卫视.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15050917541532308683.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 安徽卫视
 rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15050917541532308683.rsc/70014_Uni.sdp
