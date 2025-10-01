@@ -3,31 +3,43 @@
 
 本仓库收录了 **山东联通 IPTV** 的播放列表及相关配置，方便快速导入播放器使用。  
 
-## 🚀 使用方法
+## 使用方法
 
-1. 下载或复制对应的播放列表文件：  
-   - `multicast.m3u` → 组播播放列表
-   - `unicast.m3u` → 单播播放列表
-   - `iptv.json` → 整理好的 IPTV 播放源数据，包含频道信息与播放地址的元数据  
-
+1. 下载或复制对应的播放列表文件
 2. 将播放列表导入常见播放器，例如：  
    - [VLC](https://www.videolan.org/vlc/)  
    - [PotPlayer](https://potplayer.daum.net/)  
    - [Kodi](https://kodi.tv/)  
    - 各类 IPTV 播放器 (iOS / Android 端)  
+3. 若部分频道无法播放，可结合 **鉴权模拟项目** 抓取最新的节目单与播放地址。
 
-3. 若部分频道无法播放，可结合 **鉴权模拟项目** 抓取最新的节目单与播放地址。 
+### 单播/回看配置（任选其一）
+
+- 走 PPPoE，需公网 IP
+- 走 IPTV 接口
+
+### 组播配置（任选其一）
+
+- udpxy 转发
+- igmpproxy 转发
+- 播放设备直收组播
+
+### 回看
+
+- 支持 m3u catchup 参数的播放器，可直接导入播放列表，播放器会自动支持回看功能。
+
+- 不支持 m3u catchup 参数的播放器，以 酷9 为例：
+  1. 部署 **StreamBridge**，将 iptv.json 添加到映射的 data 目录。
+
+  2. 修改 M3U 播放地址为：`http://yourdoamin.com/tv/ChannelID`
+
+  3. 在分组配置中设置回看参数：`PB=tvdr={start|yyyyMMddHHmmss|UTC}-{end|yyyyMMddHHmmss|UTC}`
 
 ### 导入播放列表示例
 
 ![导入播放列表示例](images/import_example.png)
 
-## ⚠️ 注意事项
-
-- 单播播放（`unicast.m3u`）以及回看功能需要 **公网 IP** 环境。  
-- 组播播放（`multicast.m3u`）需在支持组播的局域网环境下配合 **udpxy** 使用，IPv4 组播地址 **第三段为地市标识**，不同地市需根据实际情况修改。
-
-## 📌 相关仓库
+## 相关仓库
 
 - **EPG 节目单**  
   - 项目地址：[epg](https://github.com/plsy1/epg)  
@@ -43,37 +55,18 @@
   - 项目地址：[StreamBridge](https://github.com/plsy1/StreamBridge)  
   - 一款 Node.js + ffmpeg 按需 RTSP 流代理，多客户端共享 / 回放单独拉流工具。
 
-## 回看设置
-
-#### 支持 m3u catchup 参数的播放器
-
-可直接导入播放列表，播放器会自动支持回看功能。
-
-#### 不支持 m3u catchup 参数的播放器
-
-以 酷9 为例：
-
-1. 部署 **StreamBridge**，将 iptv.json 添加到映射的 data 目录。
-
-2. 修改 M3U 播放地址为：
-
-    `http://yourdoamin.com/tv/ChannelID`
-
-3. 在分组配置中设置回看参数：
-
-    `PB=tvdr={start|yyyyMMddHHmmss|UTC}-{end|yyyyMMddHHmmss|UTC}`
-
-## 🕙 频道变动
+## 频道变动
 
 
 #### 时间: 2025-09-27
+
 上线频道: 山东卫视4K超高清, 湖南卫视4K超高清, 浙江卫视4K超高清, 江苏卫视4K超高清, 东方卫视4K超高清, 四川卫视4K超高清
 
 
 
 ## 📺 频道列表
 
-**更新时间**: 2025-09-27 22:36:59 UTC+8
+**更新时间**: 2025-10-01 18:57:23 UTC+8
 
 **频道总数**: 179
 
@@ -85,7 +78,7 @@
 | CCTV3高清 | 5 | 191 |
 | CCTV4高清 | 6 | 111 |
 | CCTV5高清 | 7 | 192 |
-| CCTV5高清 | 8 | 80 |
+| CCTV5+高清 | 8 | 80 |
 | CCTV6高清 | 9 | 193 |
 | CCTV7高清 | 10 | 233 |
 | CCTV8高清 | 11 | 194 |
@@ -260,7 +253,7 @@
 | 海看演艺 | 999 | 158 |
 
 
-## 📢 免责声明（风险规避声明）
+## 免责声明
 
 **请务必仔细阅读并在使用本仓库前完全理解以下条款。使用本仓库即视为您已同意并接受本免责声明的全部内容。**
 
