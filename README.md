@@ -20,8 +20,8 @@
 
 ### 组播配置（任选其一）
 
-- udpxy 转发
-- igmpproxy 转发
+- ~~udpxy 转发~~  
+- 推荐使用 [rtp2httpd](https://github.com/stackia/rtp2httpd)，支持 FCC 快速频道切换
 - 播放设备直收组播
 
 ### 回看
