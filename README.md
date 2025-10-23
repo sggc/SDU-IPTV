@@ -15,8 +15,9 @@
 
 ### 单播/回看配置（任选其一）
 
-- 走 PPPoE，需公网 IP
-- 走 IPTV 接口
+- 走 PPPoE，需公网 IP（一般默认都有公网，没有的话在宽带账号后面加上 `@e` 再拨号）
+- 没有公网 IP, 需要 nat 穿透，试试 [rtsproxy](https://github.com/plsy1/rtsproxy)
+- ~~走 IPTV 接口~~  
 
 ### 组播配置（任选其一）
 
@@ -54,6 +55,9 @@
 - **StreamBridge**
   - 项目地址：[StreamBridge](https://github.com/plsy1/StreamBridge)  
   - 一款 Node.js + ffmpeg 按需 RTSP 流代理，多客户端共享 / 回放单独拉流工具。
+- **rtsproxy**
+  - 项目地址：[rtsproxy](https://github.com/plsy1/rtsproxy)  
+  - RTSP 代理工具，解决 rtp over udp 在 nat 网络下无法收到数据的问题。
 
 ## 频道变动
 
@@ -72,7 +76,7 @@
 
 ## 频道列表
 
-**更新时间**: 2025-10-20 12:57:03 UTC+8
+**更新时间**: 2025-10-23 21:34:19 UTC+8
 
 **频道总数**: 179
 
