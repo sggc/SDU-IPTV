@@ -1,7 +1,7 @@
 
 # 山东联通 IPTV 直播源
 
-本仓库收录了 **山东联通 IPTV** 的播放列表及相关配置，方便快速导入播放器使用。  
+本仓库收录了 **山东联通 IPTV** 的播放列表及相关配置，方便快速导入播放器使用。
 
 ## 使用方法
 
@@ -11,13 +11,13 @@
    - [PotPlayer](https://potplayer.daum.net/)  
    - [Kodi](https://kodi.tv/)  
    - 各类 IPTV 播放器 (iOS / Android 端)  
-3. 若部分频道无法播放，可结合 **鉴权模拟项目** 抓取最新的节目单与播放地址。
+3. 若部分频道无法播放，可结合 **鉴权模拟项目** 抓取最新的节目单与播放地址
 
 ### 单播/回看配置（任选其一）
 
 - 走 PPPoE，需公网 IP（一般默认都有公网，没有的话在宽带账号后面加上 `@e` 再拨号）
 - 没有公网 IP, 需要 nat 穿透，试试 [rtsproxy](https://github.com/plsy1/rtsproxy)
-- ~~走 IPTV 接口~~  
+- ~~走 IPTV 接口~~  （通过 iptv 接口访问仅支持当地单播源）
 
 ### 组播配置（任选其一）
 
@@ -27,14 +27,8 @@
 
 ### 回看
 
-- 支持 m3u catchup 参数的播放器，可直接导入播放列表，播放器会自动支持回看功能。
-
-- 不支持 m3u catchup 参数的播放器，以 酷9 为例：
-  1. 部署 **StreamBridge**，将 iptv.json 添加到映射的 data 目录。
-
-  2. 修改 M3U 播放地址为：`http://yourdoamin.com/tv/ChannelID`
-
-  3. 在分组配置中设置回看参数：`PB=tvdr={start|yyyyMMddHHmmss|UTC}-{end|yyyyMMddHHmmss|UTC}`
+- 支持 m3u catchup 参数的播放器，可直接导入播放列表，播放器会自动支持回看功能
+- 不支持 m3u catchup 参数的播放器，可部署  [rtsproxy](https://github.com/plsy1/rtsproxy)
 
 ### 导入播放列表示例
 
@@ -44,20 +38,16 @@
 
 - **EPG 节目单**  
   - 项目地址：[epg](https://github.com/plsy1/epg)  
-  - 提供电子节目单 (EPG)，可与播放源结合，实现节目预告与回看功能。  
+  - 提供电子节目单 (EPG)，可与播放源结合，实现节目预告与回看功能
 - **IPTV 鉴权模拟**  
   - 项目地址：[shandong-unicom-iptv](https://github.com/plsy1/shandong-unicom-iptv)  
-  - 提供 IPTV 机顶盒的 **登录鉴权模拟**，完成鉴权后可获取 `token`，并用其抓取节目单和播放地址。  
+  - 提供 IPTV 机顶盒的 **登录鉴权模拟**，完成鉴权后可获取 `token`，并用其抓取节目单和播放地址
 - **iptvTool**
   - 项目地址：[iptvTool](https://github.com/plsy1/iptvTool)  
-  - 一个用于抓取并处理  IPTV 原始数据、生成 M3U 播放列表的命令行工具。
-  
-- **StreamBridge**
-  - 项目地址：[StreamBridge](https://github.com/plsy1/StreamBridge)  
-  - 一款 Node.js + ffmpeg 按需 RTSP 流代理，多客户端共享 / 回放单独拉流工具。
+  - 一个用于抓取并处理  IPTV 原始数据、生成 M3U 播放列表的命令行工具
 - **rtsproxy**
   - 项目地址：[rtsproxy](https://github.com/plsy1/rtsproxy)  
-  - RTSP 代理工具，解决 rtp over udp 在 nat 网络下无法收到数据的问题。
+  - RTSP 代理工具，解决 rtp over udp 在 nat 网络下无法收到数据的问题
 
 ## 频道变动
 
@@ -76,7 +66,7 @@
 
 ## 频道列表
 
-**更新时间**: 2025-10-23 21:34:19 UTC+8
+**更新时间**: 2025-10-27 12:47:12 UTC+8
 
 **频道总数**: 179
 
