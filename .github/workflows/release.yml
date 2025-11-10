@@ -16,12 +16,23 @@ jobs:
         id: get_time
         run: echo "TIME_TAG=v$(date +'%Y%m%d-%H%M%S')" >> $GITHUB_ENV
 
+      - name: Append local channel
+        run: python3 utils/append.py
+
+      - name: Commit and Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Auto update files from append.py"
+          git push
+        
       - name: Create Release
         uses: ncipollo/release-action@v1
         with:
           token: ${{ secrets.PAT }}
           tag: ${{ env.TIME_TAG }}  
           name: "Release ${{ env.TIME_TAG }}" 
-          body: "更新后自动生成的数据，存档使用"
+          body: "更新后自动生成"
           draft: false
           prerelease: falsee
