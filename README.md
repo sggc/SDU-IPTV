@@ -9,15 +9,17 @@
 
 unicast 目录下的是单播 M3U：
 
-直接导入到 APTV 使用： https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/unicast/unicast-aptv.m3u
+直接导入到 APTV 使用： https://raw.githubusercontent.com/plsy1/iptv/main/unicast/unicast-aptv.m3u
 
-直接导入到 KU9 使用：  https://raw.githubusercontent.com/plsy1/iptv/refs/heads/main/unicast/unicast-aptv.m3u
+直接导入到 KU9 使用：  https://raw.githubusercontent.com/plsy1/iptv/main/unicast/unicast-ku9.m3u
+
 
 multicast 目录下的是组播 M3U，各地区的组播地址，第三个字节有不同，因此分了多个文件，例如： 
 
 济南： https://raw.githubusercontent.com/plsy1/iptv/main/multicast/multicast-jinan.m3u
 
 青岛： https://raw.githubusercontent.com/plsy1/iptv/main/multicast/multicast-qingdao.m3u
+
 
 merge/local 目录下存放的是地方频道，会合并到最终的组播列表里面，**欢迎提交 PR 添加**
 
@@ -64,7 +66,7 @@ merge/local 目录下存放的是地方频道，会合并到最终的组播列�
 
 ## 频道列表
 
-**更新时间**: 2025-12-03 21:50:19 UTC+8
+**更新时间**: 2025-12-03 21:54:47 UTC+8
 
 **频道总数**: 179
 
