@@ -6,7 +6,7 @@
 
 1. 推荐使用单播，起播/切台速度快
 2. 不开通 IPTV 服务不影响收看单播
-3. 3.unicast 目录下的是单播 M3U：
+3. unicast 目录下的是单播 M3U：
 
 - 直接导入到 APTV 使用： 
 
@@ -46,10 +46,10 @@
 
 ## 相关仓库
 
-- https://github.com/plsy1/rtsproxy
-- https://github.com/plsy1/iptvTool
-- https://github.com/plsy1/shandong-unicom-iptv
-- https://github.com/plsy1/epg
+- IPTV 机顶盒登录鉴权模拟： https://github.com/plsy1/shandong-unicom-iptv
+- EPG 节目单： https://github.com/plsy1/epg
+- RTSP 代理工具： https://github.com/plsy1/rtsproxy
+- IPTV 数据抓取与生成 M3U 工具： https://github.com/plsy1/iptvTool
 
 ## 频道变动
 
