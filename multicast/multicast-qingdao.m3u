@@ -85,32 +85,6 @@ http://192.168.0.1:5140/rtp/239.253.254.59:8000?fcc=124.132.240.66:15970
 http://192.168.0.1:5140/rtp/239.253.254.166:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="山东海洋频道" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/山东海洋频道.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch22111116270462496793.rsc?tvdr=${(b)yyyyMMddHHmmss:utc}GMT-${(e)yyyyMMddHHmmss:utc}GMT", 山东海洋频道
 http://192.168.0.1:5140/rtp/239.253.254.67:8000?fcc=124.132.240.66:15970
-#EXTINF:-1 group-title="山东频道", 崂山
-http://192.168.0.1:5140/rtp/239.253.254.242:8000?fcc=124.132.240.66:15970
-#EXTINF:-1 group-title="山东频道", 西海岸新闻
-http://192.168.0.1:5140/rtp/239.253.254.243:8000?fcc=124.132.240.66:15970
-#EXTINF:-1 group-title="山东频道", 西海岸生活
-http://192.168.0.1:5140/rtp/239.253.254.244:8000?fcc=124.132.240.66:15970
-#EXTINF:-1 group-title="山东频道", 即墨
-http://192.168.0.1:5140/rtp/239.253.254.245:8000?fcc=124.132.240.66:15970
-#EXTINF:-1 group-title="山东频道", 胶州综合
-http://192.168.0.1:5140/rtp/239.253.254.246:8000?fcc=124.132.240.66:15970
-#EXTINF:-1 group-title="山东频道", 莱西综合
-http://192.168.0.1:5140/rtp/239.253.254.247:8000?fcc=124.132.240.66:15970
-#EXTINF:-1 group-title="山东频道", 平度电视台
-http://192.168.0.1:5140/rtp/239.253.254.248:8000?fcc=124.132.240.66:15970
-#EXTINF:-1 group-title="山东频道", QTV1
-http://192.168.0.1:5140/rtp/239.253.254.249:8000?fcc=124.132.240.66:15970
-#EXTINF:-1 group-title="山东频道", QTV2
-http://192.168.0.1:5140/rtp/239.253.254.250:8000?fcc=124.132.240.66:15970
-#EXTINF:-1 group-title="山东频道", QTV3
-http://192.168.0.1:5140/rtp/239.253.254.251:8000?fcc=124.132.240.66:15970
-#EXTINF:-1 group-title="山东频道", QTV4
-http://192.168.0.1:5140/rtp/239.253.254.252:8000?fcc=124.132.240.66:15970
-#EXTINF:-1 group-title="山东频道", QTV5
-http://192.168.0.1:5140/rtp/239.253.254.253:8000?fcc=124.132.240.66:15970
-#EXTINF:-1 group-title="山东频道", QTV6
-http://192.168.0.1:5140/rtp/239.253.254.254:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CHC家庭影院.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch18120514091718394256.rsc?tvdr=${(b)yyyyMMddHHmmss:utc}GMT-${(e)yyyyMMddHHmmss:utc}GMT", CHC家庭影院
 http://192.168.0.1:5140/rtp/239.253.254.152:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CHC动作电影.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch18120514100139517699.rsc?tvdr=${(b)yyyyMMddHHmmss:utc}GMT-${(e)yyyyMMddHHmmss:utc}GMT", CHC动作电影

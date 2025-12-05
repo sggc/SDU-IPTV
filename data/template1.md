@@ -13,13 +13,13 @@
 
       ​	Github: https://raw.githubusercontent.com/plsy1/iptv/main/unicast/unicast-aptv.m3u
       
-      ​	jsDelivr(国内直连): https://cdn.jsdelivr.net/gh/plsy1/iptv@master/unicast/unicast-aptv.m3u
+      ​	jsDelivr(国内直连): https://fastly.jsdelivr.net/gh/plsy1/iptv@master/unicast/unicast-aptv.m3u
 
    - 直接导入到 KU9 使用：  
 
       ​	Github: https://raw.githubusercontent.com/plsy1/iptv/main/unicast/unicast-ku9.m3u
       
-      ​	jsDelivr(国内直连): https://cdn.jsdelivr.net/gh/plsy1/iptv@master/unicast/unicast-ku9.m3u
+      ​	jsDelivr(国内直连): https://fastly.jsdelivr.net/gh/plsy1/iptv@master/unicast/unicast-ku9.m3u
 
 4. multicast 目录下的是组播 M3U，各地区的组播地址，第三个字节有不同，因此分了多个文件，例如： 
 
