@@ -31,6 +31,8 @@
 
 6. 山东地方频道，直接导入 KU9 播放（另有通用部署方式，详细可查看对应仓库内的说明）：https://fastly.jsdelivr.net/gh/plsy1/iqilu@master/iqilu-ku9.m3u
 
+7. 在闲鱼上倒卖的[二道贩子们](https://github.com/plsy1/iptv/issues/15)，好自为之
+
 ## 具体配置
 
 ### 单播与回看
