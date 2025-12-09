@@ -21,13 +21,19 @@
       
       ​	jsDelivr(国内直连): https://fastly.jsdelivr.net/gh/plsy1/iptv@master/unicast/unicast-ku9.m3u
 
+   - 直接导入到 rtp2httpd 使用：  
+
+      ​	Github: https://raw.githubusercontent.com/plsy1/iptv/main/unicast/unicast-rtp2httpd.m3u
+      
+      ​	jsDelivr(国内直连): https://fastly.jsdelivr.net/gh/plsy1/iptv@master/unicast/unicast-rtp2httpd.m3u
+
 4. multicast 目录下的是组播 M3U，各地区的组播地址，第三个字节有不同，因此分了多个文件，例如： 
 
    济南： https://raw.githubusercontent.com/plsy1/iptv/main/multicast/multicast-jinan.m3u
 
    青岛： https://raw.githubusercontent.com/plsy1/iptv/main/multicast/multicast-qingdao.m3u
 
-5. merge/local 目录下存放的是地方频道，会合并到最终的组播列表里面，**欢迎提交 PR 添加**
+5. merge 目录下存放的是地方频道，会合并到最终的组播列表里面，**欢迎提交 PR 添加**
 
 6. 山东地方频道，直接导入 KU9 播放（另有通用部署方式，详细可查看对应仓库内的说明）：https://fastly.jsdelivr.net/gh/plsy1/iqilu@master/iqilu-ku9.m3u
 
