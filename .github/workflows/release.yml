@@ -1,9 +1,10 @@
-name: Auto Release Main
+name: Update
 
 on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,22 +14,38 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Get current time
-        id: get_time
-        run: echo "TIME_TAG=v$(date +'%Y%m%d-%H%M%S')" >> $GITHUB_ENV
+      - name: Clone Repository
+        env:
+          TOKEN: ${{ secrets.PAT }}
+          REPO: ${{ secrets.REPO }}
+        run: |
+          git clone "https://${TOKEN}@github.com/${REPO}.git" iptvtool-selfuse --depth 1
 
+      - name: Copy output
+        run: |
+          cp iptvtool-selfuse/output/README.md README.md
+          rm -rf merge/multicast/main
+          mkdir -p merge/multicast/main
+          cp -r iptvtool-selfuse/output/multicast/* merge/multicast/main/
+          rm -rf multicast
+          mkdir multicast
+          cp -r iptvtool-selfuse/output/multicast/* multicast
+          rm -rf unicast
+          mkdir -p unicast
+          cp -r iptvtool-selfuse/output/unicast/* unicast/
+          rm -rf iptvtool-selfuse
       - name: Append local channel
         run: python3 utils/merge.py
 
       - name: Commit and Push changes
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.PAT }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Auto merge local channels"
+          git commit -m "Auto merge local channels" || echo "Nothing to commit"
           git push
         
