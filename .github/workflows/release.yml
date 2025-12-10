@@ -28,14 +28,9 @@ jobs:
       - name: Copy output
         run: |
           cp iptvtool-selfuse/output/README.md README.md
-          rm -rf merge/multicast/main
-          mkdir -p merge/multicast/main
-          cp -r iptvtool-selfuse/output/multicast/* merge/multicast/main/
-          rm -rf multicast
-          mkdir multicast
-          cp -r iptvtool-selfuse/output/multicast/* multicast
-          rm -rf unicast
-          mkdir -p unicast
+          rm -f multicast/*.m3u
+          cp -r iptvtool-selfuse/output/multicast/* multicast/
+          rm -rf unicast/*.m3u
           cp -r iptvtool-selfuse/output/unicast/* unicast/
           rm -rf iptvtool-selfuse
       - name: Append local channel

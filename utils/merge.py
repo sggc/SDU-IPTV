@@ -37,7 +37,7 @@ def merge_m3u(input_files, output_file,search_group_title="山东频道"):
     print(f"合并完成，输出到 {output_file}")
 
 
-m3u_files = glob.glob("merge/multicast/local/*.m3u")
+m3u_files = glob.glob("multicast/local/*.m3u")
 
 city_dict = {}
 for filepath in m3u_files:
@@ -46,7 +46,7 @@ for filepath in m3u_files:
         city_dict[city] = []
     city_dict[city].append(filepath)
 
-multicast_dir = "merge/multicast/main"
+multicast_dir = "multicast"
 output_dir = "multicast"
 for city, append_files in city_dict.items():
     multicast_file = os.path.join(multicast_dir, f"multicast-{city}.m3u")
