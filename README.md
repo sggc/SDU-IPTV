@@ -33,7 +33,7 @@
 
    青岛： https://raw.githubusercontent.com/plsy1/iptv/main/multicast/multicast-qingdao.m3u
 
-5. merge 目录下存放的是地方频道，会合并到最终的组播列表里面，**欢迎提交 PR 添加**
+5. multicast/local 目录下存放的是地方频道，会合并到组播列表里面，**欢迎提交 PR 添加**
 
 6. 山东地方频道，直接导入 KU9 播放（另有通用部署方式，详细可查看对应仓库内的说明）：https://fastly.jsdelivr.net/gh/plsy1/iqilu@master/iqilu-ku9.m3u
 
@@ -75,7 +75,7 @@
 
 ## 频道列表
 
-**更新时间**: 2025-12-10 16:54:30 UTC+8
+**更新时间**: 2025-12-10 17:05:25 UTC+8
 
 **频道总数**: 179
 
