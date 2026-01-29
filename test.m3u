@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-name="广州综合" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV1.png" , 广州综合
+http://192.168.100.1:5140/rtp/239.253.246.77:8000
+#EXTINF:-1 tvg-name="广州新闻" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/山东卫视.png" , 广州新闻
+http://192.168.100.1:5140/rtp/239.253.246.78:8000
+#EXTINF:-1 tvg-name="南国都市" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV2.png" , 南国都市
+http://192.168.100.1:5140/rtp/239.253.246.232:8000
